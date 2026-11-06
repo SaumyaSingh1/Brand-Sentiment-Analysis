@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Files containing Nykaa review text (Nykaa's terms bar republishing site content)
+reviews_raw.csv
+reviews.csv
+validation_sample.xlsx
+validation_disagreements.csv
+
+# Personal portfolio drafts (Notion copy, CV bullets) and the private project brief
+portfolio/
+Instructions.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

@@ -1,0 +1,1914 @@
+Review_ID,Brand,Brand_Pillar,Sub_Issue,Sentiment_Score,Churn_Risk
+1,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+2,Aqualogica,Overall Experience,General Satisfaction,1,Low
+3,Aqualogica,Overall Experience,General Dissatisfaction,-1,High
+4,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+5,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+6,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+7,Aqualogica,Packaging & Dispensing,Used Or Tampered Product,-1,High
+8,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+8,Aqualogica,Packaging & Dispensing,Convenient Packaging,1,Low
+9,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+9,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+9,Aqualogica,Texture & Finish,Dewy Finish,-1,High
+10,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+10,Aqualogica,Skin Compatibility & Fragrance,Allergic Reaction,-1,High
+11,Aqualogica,Sun Protection & Value,Ineffective Sun Protection,-1,High
+11,Aqualogica,Sun Protection & Value,Overpriced,-1,High
+12,Aqualogica,Texture & Finish,No White Cast,1,Low
+12,Aqualogica,Sun Protection & Value,Effective Sun Protection,1,Low
+12,Aqualogica,Sun Protection & Value,Small Quantity For Price,-1,Low
+13,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+14,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+15,Aqualogica,Packaging & Dispensing,Convenient Packaging,-1,Low
+16,Aqualogica,Overall Experience,General Satisfaction,1,Low
+16,Aqualogica,Packaging & Dispensing,Convenient Packaging,-1,Low
+17,Aqualogica,Texture & Finish,Quick Absorption,1,Low
+17,Aqualogica,Skin Compatibility & Fragrance,Suits Sensitive Skin,1,Low
+18,Aqualogica,Skin Compatibility & Fragrance,Unpleasant Fragrance,-1,High
+18,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+19,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+19,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,High
+19,Aqualogica,Texture & Finish,Quick Absorption,1,Low
+20,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+20,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,High
+21,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+21,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+22,Aqualogica,Skin Compatibility & Fragrance,Unpleasant Fragrance,-1,High
+23,Aqualogica,Packaging & Dispensing,Leaking Packaging,-1,High
+24,Aqualogica,Sun Protection & Value,Ineffective Sun Protection,-1,High
+25,Aqualogica,Sun Protection & Value,Good Value Price,1,Low
+26,Aqualogica,Overall Experience,General Satisfaction,1,Low
+26,Aqualogica,Sun Protection & Value,Small Quantity For Price,-1,Low
+27,Aqualogica,Texture & Finish,Dewy Finish,-1,High
+27,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+28,Aqualogica,Overall Experience,General Satisfaction,1,Low
+29,Aqualogica,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,High
+29,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+29,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+30,Aqualogica,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,High
+31,Aqualogica,Skin Compatibility & Fragrance,Allergic Reaction,-1,High
+32,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+33,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+34,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+35,Aqualogica,Texture & Finish,Sticky Residue,-1,Low
+35,Aqualogica,Texture & Finish,White Cast Issue,-1,Low
+35,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+36,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+36,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+37,Aqualogica,Skin Compatibility & Fragrance,Unpleasant Fragrance,-1,Low
+38,Aqualogica,Texture & Finish,Quick Absorption,-1,High
+38,Aqualogica,Texture & Finish,White Cast Issue,-1,High
+38,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+39,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+39,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+39,Aqualogica,Texture & Finish,Pilling Under Makeup,1,Low
+40,Aqualogica,Skin Compatibility & Fragrance,Unpleasant Fragrance,-1,High
+41,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+42,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+42,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+43,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+44,Aqualogica,Sun Protection & Value,Ineffective Sun Protection,-1,High
+44,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+45,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+46,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+47,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+47,Aqualogica,Sun Protection & Value,Effective Sun Protection,1,Low
+47,Aqualogica,Texture & Finish,Greasy Oily Feel,1,Low
+48,Aqualogica,Texture & Finish,Pilling Under Makeup,-1,Low
+48,Aqualogica,Sun Protection & Value,Good Value Price,-1,Low
+49,Aqualogica,Overall Experience,General Satisfaction,1,Low
+50,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+51,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+52,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,High
+52,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+53,Aqualogica,Texture & Finish,Lightweight Texture,-1,Low
+53,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+54,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+55,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+56,Aqualogica,Overall Experience,General Satisfaction,0,Low
+57,Aqualogica,Overall Experience,General Satisfaction,1,Low
+58,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+59,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+60,Aqualogica,Texture & Finish,White Cast Issue,-1,High
+61,Aqualogica,Texture & Finish,Pilling Under Makeup,-1,High
+62,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+63,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+64,Aqualogica,Sun Protection & Value,Suspected Fake Product,-1,High
+64,Aqualogica,Packaging & Dispensing,Used Or Tampered Product,-1,High
+65,Aqualogica,Overall Experience,General Dissatisfaction,-1,Low
+66,Aqualogica,Overall Experience,General Satisfaction,1,Low
+67,Aqualogica,Sun Protection & Value,Ineffective Sun Protection,-1,High
+68,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+68,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+69,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+70,Aqualogica,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+70,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,1,Low
+71,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+71,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+72,Aqualogica,Texture & Finish,Pilling Under Makeup,-1,Low
+73,Aqualogica,Texture & Finish,No White Cast,1,Low
+74,Aqualogica,Packaging & Dispensing,Faulty Pump Dispenser,-1,High
+75,Aqualogica,Sun Protection & Value,Good Value Price,1,Low
+76,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+76,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,High
+77,Aqualogica,Overall Experience,General Satisfaction,0,Low
+78,Aqualogica,Texture & Finish,Dewy Finish,-1,Low
+78,Aqualogica,Texture & Finish,Quick Absorption,1,Low
+78,Aqualogica,Texture & Finish,Matte Finish,1,Low
+79,Aqualogica,Packaging & Dispensing,Faulty Pump Dispenser,-1,High
+79,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,High
+79,Aqualogica,Skin Compatibility & Fragrance,Unpleasant Fragrance,0,High
+80,Aqualogica,Sun Protection & Value,Overpriced,-1,Low
+80,Aqualogica,Texture & Finish,Quick Absorption,1,Low
+80,Aqualogica,Texture & Finish,No White Cast,1,Low
+81,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+82,Aqualogica,Overall Experience,General Satisfaction,1,Low
+83,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+84,Aqualogica,Overall Experience,General Satisfaction,1,Low
+85,Aqualogica,Sun Protection & Value,Effective Sun Protection,1,Low
+85,Aqualogica,Skin Compatibility & Fragrance,Unpleasant Fragrance,-1,Low
+86,Aqualogica,Texture & Finish,Lightweight Texture,1,High
+86,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+87,Aqualogica,Texture & Finish,No White Cast,1,Low
+87,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+88,Aqualogica,Skin Compatibility & Fragrance,Unpleasant Fragrance,-1,Low
+89,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,High
+89,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+90,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+91,Aqualogica,Skin Compatibility & Fragrance,Unpleasant Fragrance,-1,Low
+92,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,High
+93,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+94,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+95,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+96,Aqualogica,Texture & Finish,Sticky Residue,-1,High
+96,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+97,Aqualogica,Skin Compatibility & Fragrance,Unpleasant Fragrance,-1,High
+98,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+99,Aqualogica,Overall Experience,General Satisfaction,1,Low
+100,Aqualogica,Overall Experience,General Satisfaction,1,Low
+101,Aqualogica,Overall Experience,General Dissatisfaction,0,Low
+102,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+103,Aqualogica,Overall Experience,General Dissatisfaction,-1,High
+104,Aqualogica,Sun Protection & Value,Effective Sun Protection,1,Low
+105,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,High
+105,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+106,Aqualogica,Sun Protection & Value,Good Value Price,1,Low
+106,Aqualogica,Texture & Finish,Sticky Residue,-1,Low
+107,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+108,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+108,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+109,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+110,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+111,Aqualogica,Texture & Finish,Dewy Finish,-1,Low
+112,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+112,Aqualogica,Texture & Finish,Quick Absorption,1,Low
+112,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+113,Aqualogica,Texture & Finish,Pilling Under Makeup,-1,Low
+114,Aqualogica,Texture & Finish,No White Cast,1,Low
+115,Aqualogica,Skin Compatibility & Fragrance,Allergic Reaction,-1,High
+116,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+116,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+117,Aqualogica,Texture & Finish,Lightweight Texture,-1,High
+118,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+118,Aqualogica,Texture & Finish,No White Cast,1,Low
+119,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,High
+119,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+120,Aqualogica,Skin Compatibility & Fragrance,Allergic Reaction,-1,High
+121,Aqualogica,Texture & Finish,Dewy Finish,-1,Low
+122,Aqualogica,Texture & Finish,Lightweight Texture,0,Low
+123,Aqualogica,Sun Protection & Value,Overpriced,-1,High
+123,Aqualogica,Sun Protection & Value,Small Quantity For Price,-1,High
+124,Aqualogica,Sun Protection & Value,Effective Sun Protection,1,Low
+124,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+124,Aqualogica,Texture & Finish,Dewy Finish,-1,Low
+125,Aqualogica,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,High
+125,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+125,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+126,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+126,Aqualogica,Texture & Finish,No White Cast,1,Low
+126,Aqualogica,Texture & Finish,Dewy Finish,1,Low
+127,Aqualogica,Texture & Finish,Dewy Finish,1,Low
+127,Aqualogica,Texture & Finish,No White Cast,1,Low
+127,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+128,Aqualogica,Skin Compatibility & Fragrance,Eye Stinging,-1,High
+129,Aqualogica,Texture & Finish,Lightweight Texture,0,Low
+129,Aqualogica,Skin Compatibility & Fragrance,Unpleasant Fragrance,-1,Low
+130,Aqualogica,Packaging & Dispensing,Damaged On Delivery,-1,Low
+130,Aqualogica,Texture & Finish,Dewy Finish,-1,Low
+131,Aqualogica,Sun Protection & Value,Overpriced,-1,High
+131,Aqualogica,Texture & Finish,White Cast Issue,-1,High
+132,Aqualogica,Texture & Finish,Pilling Under Makeup,-1,Low
+133,Aqualogica,Overall Experience,General Satisfaction,0,Low
+134,Aqualogica,Overall Experience,General Satisfaction,1,Low
+134,Aqualogica,Sun Protection & Value,Small Quantity For Price,-1,Low
+135,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+136,Aqualogica,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,High
+136,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+137,Aqualogica,Texture & Finish,Lightweight Texture,0,Low
+137,Aqualogica,Overall Experience,General Dissatisfaction,-1,High
+138,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+139,Aqualogica,Texture & Finish,No White Cast,1,Low
+139,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,1,Low
+139,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+139,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+139,Aqualogica,Texture & Finish,Dewy Finish,1,Low
+140,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+141,Aqualogica,Sun Protection & Value,Effective Sun Protection,1,Low
+141,Aqualogica,Skin Compatibility & Fragrance,Allergic Reaction,-1,High
+142,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+142,Aqualogica,Texture & Finish,Sticky Residue,-1,Low
+143,Aqualogica,Overall Experience,General Satisfaction,1,Low
+144,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+145,Aqualogica,Packaging & Dispensing,Convenient Packaging,-1,Low
+146,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+147,Aqualogica,Texture & Finish,Sticky Residue,-1,Low
+148,Aqualogica,Overall Experience,General Satisfaction,0,Low
+149,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+150,Aqualogica,Overall Experience,General Satisfaction,1,Low
+151,Aqualogica,Texture & Finish,Pilling Under Makeup,-1,Low
+151,Aqualogica,Texture & Finish,Sticky Residue,-1,Low
+151,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+152,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+153,Aqualogica,Overall Experience,General Dissatisfaction,-1,Low
+154,Aqualogica,Sun Protection & Value,Ineffective Sun Protection,-1,Low
+155,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+156,Aqualogica,Sun Protection & Value,Ineffective Sun Protection,-1,Low
+157,Aqualogica,Sun Protection & Value,Ineffective Sun Protection,-1,Low
+158,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+159,Aqualogica,Texture & Finish,No White Cast,1,Low
+159,Aqualogica,Texture & Finish,Sticky Residue,1,Low
+159,Aqualogica,Skin Compatibility & Fragrance,Suits Sensitive Skin,1,Low
+160,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+160,Aqualogica,Texture & Finish,Dewy Finish,0,Low
+161,Aqualogica,Texture & Finish,Dewy Finish,1,Low
+161,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+162,Aqualogica,Texture & Finish,Dewy Finish,1,Low
+162,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+163,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,1,Low
+163,Aqualogica,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+163,Aqualogica,Texture & Finish,No White Cast,1,Low
+164,Aqualogica,Overall Experience,General Satisfaction,1,Low
+165,Aqualogica,Texture & Finish,Dewy Finish,1,Low
+165,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+166,Aqualogica,Texture & Finish,No White Cast,1,Low
+166,Aqualogica,Sun Protection & Value,Ineffective Sun Protection,-1,Low
+167,Aqualogica,Overall Experience,General Satisfaction,1,Low
+168,Aqualogica,Skin Compatibility & Fragrance,Eye Stinging,-1,High
+168,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+168,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,High
+169,Aqualogica,Texture & Finish,Matte Finish,0,Low
+169,Aqualogica,Texture & Finish,Pilling Under Makeup,1,Low
+170,Aqualogica,Overall Experience,General Satisfaction,1,Low
+170,Aqualogica,Sun Protection & Value,Small Quantity For Price,-1,Low
+171,Aqualogica,Texture & Finish,No White Cast,1,Low
+171,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,1,Low
+172,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+172,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,1,Low
+172,Aqualogica,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+172,Aqualogica,Sun Protection & Value,Good Value Price,1,Low
+173,Aqualogica,Sun Protection & Value,Small Quantity For Price,-1,Low
+174,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+175,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+176,Aqualogica,Sun Protection & Value,Good Value Price,1,Low
+176,Aqualogica,Texture & Finish,Dewy Finish,-1,Low
+177,Aqualogica,Overall Experience,General Satisfaction,0,Low
+178,Aqualogica,Overall Experience,General Satisfaction,0,Low
+179,Aqualogica,Overall Experience,General Satisfaction,1,Low
+180,Aqualogica,Overall Experience,General Satisfaction,1,Low
+181,Aqualogica,Sun Protection & Value,Good Value Price,1,Low
+182,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+182,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+182,Aqualogica,Sun Protection & Value,Small Quantity For Price,-1,Low
+183,Aqualogica,Overall Experience,General Satisfaction,1,Low
+184,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+185,Aqualogica,Overall Experience,General Satisfaction,1,Low
+185,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+185,Aqualogica,Sun Protection & Value,Small Quantity For Price,-1,Low
+186,Aqualogica,Overall Experience,General Satisfaction,1,Low
+187,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+187,Aqualogica,Texture & Finish,Dewy Finish,1,Low
+187,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,1,Low
+188,Aqualogica,Sun Protection & Value,Good Value Price,1,Low
+189,Aqualogica,Texture & Finish,Pilling Under Makeup,-1,Low
+190,Aqualogica,Skin Compatibility & Fragrance,Unpleasant Fragrance,-1,Low
+191,Aqualogica,Overall Experience,General Satisfaction,0,Low
+192,Aqualogica,Skin Compatibility & Fragrance,Unpleasant Fragrance,-1,Low
+193,Aqualogica,Sun Protection & Value,Good Value Price,1,Low
+193,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+194,Aqualogica,Texture & Finish,Dewy Finish,-1,Low
+194,Aqualogica,Texture & Finish,Quick Absorption,1,Low
+195,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+195,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+196,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,1,Low
+197,Aqualogica,Texture & Finish,No White Cast,1,Low
+197,Aqualogica,Texture & Finish,Quick Absorption,1,Low
+197,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+198,Aqualogica,Packaging & Dispensing,Faulty Pump Dispenser,-1,Low
+198,Aqualogica,Texture & Finish,No White Cast,1,Low
+198,Aqualogica,Texture & Finish,Quick Absorption,1,Low
+199,Aqualogica,Texture & Finish,Dewy Finish,1,Low
+199,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+199,Aqualogica,Sun Protection & Value,Effective Sun Protection,1,Low
+200,Aqualogica,Overall Experience,General Satisfaction,1,Low
+201,Aqualogica,Overall Experience,General Satisfaction,1,Low
+202,Aqualogica,Texture & Finish,Dewy Finish,1,Low
+203,Aqualogica,Texture & Finish,No White Cast,1,Low
+203,Aqualogica,Texture & Finish,Quick Absorption,1,Low
+203,Aqualogica,Texture & Finish,Dewy Finish,0,Low
+204,Aqualogica,Texture & Finish,Dewy Finish,1,Low
+205,Aqualogica,Overall Experience,General Satisfaction,1,Low
+206,Aqualogica,Texture & Finish,Dewy Finish,-1,Low
+206,Aqualogica,Overall Experience,General Satisfaction,1,Low
+207,Aqualogica,Overall Experience,General Satisfaction,1,Low
+208,Aqualogica,Texture & Finish,Greasy Oily Feel,1,Low
+208,Aqualogica,Texture & Finish,No White Cast,1,Low
+209,Aqualogica,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+209,Aqualogica,Texture & Finish,White Cast Issue,-1,Low
+209,Aqualogica,Packaging & Dispensing,Faulty Pump Dispenser,-1,Low
+210,Aqualogica,Texture & Finish,Lightweight Texture,0,Low
+211,Aqualogica,Texture & Finish,No White Cast,1,Low
+211,Aqualogica,Overall Experience,General Dissatisfaction,0,High
+212,Aqualogica,Skin Compatibility & Fragrance,Suits Sensitive Skin,0,Low
+213,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+214,Aqualogica,Overall Experience,General Dissatisfaction,-1,High
+215,Aqualogica,Texture & Finish,Dewy Finish,1,Low
+215,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+215,Aqualogica,Sun Protection & Value,Ineffective Sun Protection,-1,Low
+216,Aqualogica,Packaging & Dispensing,Convenient Packaging,1,Low
+217,Aqualogica,Texture & Finish,Dewy Finish,-1,Low
+217,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+218,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+218,Aqualogica,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,Low
+219,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+220,Aqualogica,Sun Protection & Value,Good Value Price,1,Low
+220,Aqualogica,Texture & Finish,Quick Absorption,1,Low
+220,Aqualogica,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+221,Aqualogica,Overall Experience,General Satisfaction,1,Low
+222,Aqualogica,Overall Experience,General Satisfaction,1,Low
+223,Aqualogica,Texture & Finish,Dewy Finish,1,Low
+223,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+223,Aqualogica,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+224,Aqualogica,Sun Protection & Value,Small Quantity For Price,-1,Low
+225,Aqualogica,Sun Protection & Value,Ineffective Sun Protection,-1,Low
+226,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,1,Low
+227,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+227,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+228,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+229,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+229,Aqualogica,Sun Protection & Value,Ineffective Sun Protection,-1,High
+230,Aqualogica,Skin Compatibility & Fragrance,Unpleasant Fragrance,-1,High
+230,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+231,Aqualogica,Texture & Finish,No White Cast,1,Low
+232,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+232,Aqualogica,Texture & Finish,Sticky Residue,-1,Low
+233,Aqualogica,Texture & Finish,Lightweight Texture,0,Low
+234,Aqualogica,Texture & Finish,Sticky Residue,1,Low
+234,Aqualogica,Texture & Finish,No White Cast,1,Low
+234,Aqualogica,Sun Protection & Value,Ineffective Sun Protection,0,Low
+235,Aqualogica,Texture & Finish,No White Cast,1,Low
+235,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+235,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+236,Aqualogica,Texture & Finish,Lightweight Texture,-1,Low
+236,Aqualogica,Texture & Finish,Dewy Finish,-1,Low
+237,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+238,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+238,Aqualogica,Skin Compatibility & Fragrance,Suits Sensitive Skin,1,Low
+239,Aqualogica,Sun Protection & Value,Small Quantity For Price,-1,Low
+240,Aqualogica,Overall Experience,General Satisfaction,0,Low
+241,Aqualogica,Overall Experience,General Satisfaction,1,Low
+241,Aqualogica,Texture & Finish,Quick Absorption,1,Low
+241,Aqualogica,Sun Protection & Value,Ineffective Sun Protection,0,Low
+242,Aqualogica,Texture & Finish,Lightweight Texture,-1,High
+242,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+243,Aqualogica,Texture & Finish,Quick Absorption,1,Low
+243,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+244,Aqualogica,Packaging & Dispensing,Faulty Pump Dispenser,-1,High
+244,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+245,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+246,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,0,Low
+246,Aqualogica,Texture & Finish,Sticky Residue,-1,Low
+247,Aqualogica,Texture & Finish,No White Cast,1,Low
+247,Aqualogica,Sun Protection & Value,Ineffective Sun Protection,-1,Low
+247,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+248,Aqualogica,Overall Experience,General Satisfaction,0,Low
+249,Aqualogica,Texture & Finish,Quick Absorption,1,Low
+249,Aqualogica,Texture & Finish,Dewy Finish,-1,Low
+250,Aqualogica,Overall Experience,General Satisfaction,0,Low
+251,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+252,Aqualogica,Overall Experience,General Dissatisfaction,-1,Low
+252,Aqualogica,Texture & Finish,Dewy Finish,0,Low
+253,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+254,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+255,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+256,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+257,Aqualogica,Overall Experience,General Dissatisfaction,0,Low
+258,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+259,Aqualogica,Overall Experience,General Satisfaction,1,Low
+259,Aqualogica,Sun Protection & Value,Ineffective Sun Protection,0,Low
+260,Aqualogica,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,High
+260,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+260,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+261,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+262,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+263,Aqualogica,Overall Experience,General Satisfaction,1,High
+263,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+264,Aqualogica,Texture & Finish,Dewy Finish,1,Low
+264,Aqualogica,Texture & Finish,No White Cast,1,Low
+264,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+265,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+266,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+267,Aqualogica,Overall Experience,General Satisfaction,0,Low
+267,Aqualogica,Texture & Finish,Dewy Finish,-1,Low
+267,Aqualogica,Sun Protection & Value,Overpriced,-1,Low
+268,Aqualogica,Overall Experience,General Satisfaction,1,Low
+268,Aqualogica,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+269,Aqualogica,Sun Protection & Value,Good Value Price,1,Low
+269,Aqualogica,Texture & Finish,No White Cast,1,Low
+269,Aqualogica,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+269,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+269,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+270,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+270,Aqualogica,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+270,Aqualogica,Texture & Finish,No White Cast,1,Low
+270,Aqualogica,Sun Protection & Value,Ineffective Sun Protection,-1,Low
+271,Aqualogica,Overall Experience,General Satisfaction,1,Low
+272,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+272,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+273,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+274,Aqualogica,Sun Protection & Value,Good Value Price,1,Low
+274,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+275,Aqualogica,Overall Experience,General Satisfaction,1,High
+275,Aqualogica,Sun Protection & Value,Ineffective Sun Protection,-1,High
+276,Aqualogica,Overall Experience,General Satisfaction,1,Low
+276,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+277,Aqualogica,Overall Experience,General Satisfaction,1,High
+277,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+278,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+278,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+278,Aqualogica,Texture & Finish,No White Cast,1,Low
+279,Aqualogica,Sun Protection & Value,Good Value Price,1,Low
+279,Aqualogica,Texture & Finish,Dewy Finish,1,Low
+279,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+280,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+280,Aqualogica,Texture & Finish,Sticky Residue,-1,Low
+281,Aqualogica,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,High
+281,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+282,Aqualogica,Overall Experience,General Satisfaction,1,Low
+283,Aqualogica,Overall Experience,General Satisfaction,1,Low
+283,Aqualogica,Packaging & Dispensing,Convenient Packaging,1,Low
+284,Aqualogica,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,High
+285,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+286,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+287,Aqualogica,Overall Experience,General Satisfaction,1,Low
+288,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+289,Aqualogica,Texture & Finish,Greasy Oily Feel,1,Low
+289,Aqualogica,Texture & Finish,Dewy Finish,1,Low
+289,Aqualogica,Texture & Finish,No White Cast,1,Low
+289,Aqualogica,Texture & Finish,Pilling Under Makeup,-1,Low
+290,Aqualogica,Texture & Finish,Quick Absorption,1,Low
+290,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+291,Aqualogica,Packaging & Dispensing,Damaged On Delivery,-1,Low
+292,Aqualogica,Texture & Finish,Sticky Residue,-1,Low
+293,Aqualogica,Sun Protection & Value,Ineffective Sun Protection,-1,Low
+294,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+294,Aqualogica,Sun Protection & Value,Ineffective Sun Protection,-1,Low
+295,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+296,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+297,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+297,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+298,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,Low
+299,Aqualogica,Texture & Finish,No White Cast,1,Low
+299,Aqualogica,Texture & Finish,Dewy Finish,-1,Low
+300,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+300,Aqualogica,Texture & Finish,No White Cast,1,Low
+300,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+300,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+300,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+301,Aqualogica,Skin Compatibility & Fragrance,Suits Sensitive Skin,1,Low
+301,Aqualogica,Texture & Finish,Quick Absorption,1,Low
+301,Aqualogica,Texture & Finish,No White Cast,1,Low
+302,Aqualogica,Texture & Finish,Dewy Finish,1,Low
+302,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+303,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+304,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+304,Aqualogica,Texture & Finish,No White Cast,1,Low
+305,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,0,Low
+306,Aqualogica,Texture & Finish,Sticky Residue,-1,Low
+307,Aqualogica,Texture & Finish,Quick Absorption,1,Low
+308,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+309,Aqualogica,Overall Experience,General Satisfaction,1,Low
+310,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+310,Aqualogica,Texture & Finish,Sticky Residue,1,Low
+310,Aqualogica,Texture & Finish,White Cast Issue,-1,Low
+311,Aqualogica,Texture & Finish,Sticky Residue,-1,Low
+311,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+312,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+313,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+313,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+314,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+315,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,High
+316,Aqualogica,Texture & Finish,Dewy Finish,1,Low
+317,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+318,Aqualogica,Overall Experience,General Satisfaction,0,Low
+319,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+319,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+320,Aqualogica,Texture & Finish,No White Cast,1,Low
+320,Aqualogica,Texture & Finish,Greasy Oily Feel,1,Low
+321,Aqualogica,Texture & Finish,Greasy Oily Feel,1,Low
+321,Aqualogica,Skin Compatibility & Fragrance,Suits Sensitive Skin,1,Low
+322,Aqualogica,Packaging & Dispensing,Convenient Packaging,1,Low
+322,Aqualogica,Texture & Finish,No White Cast,1,Low
+323,Aqualogica,Texture & Finish,Sticky Residue,-1,Low
+323,Aqualogica,Texture & Finish,Pilling Under Makeup,-1,Low
+324,Aqualogica,Overall Experience,General Satisfaction,1,Low
+325,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+326,Aqualogica,Overall Experience,General Dissatisfaction,-1,High
+327,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,High
+327,Aqualogica,Texture & Finish,No White Cast,1,Low
+328,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+329,Aqualogica,Texture & Finish,Dewy Finish,1,Low
+329,Aqualogica,Texture & Finish,No White Cast,1,Low
+329,Aqualogica,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+329,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+329,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+330,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+330,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,High
+331,Aqualogica,Packaging & Dispensing,Faulty Pump Dispenser,-1,Low
+332,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+332,Aqualogica,Texture & Finish,No White Cast,1,Low
+333,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+334,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+334,Aqualogica,Sun Protection & Value,Effective Sun Protection,0,Low
+334,Aqualogica,Skin Compatibility & Fragrance,Eye Stinging,-1,High
+335,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+335,Aqualogica,Texture & Finish,No White Cast,1,Low
+335,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,Low
+336,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,1,Low
+336,Aqualogica,Packaging & Dispensing,Faulty Pump Dispenser,-1,Low
+337,Aqualogica,Packaging & Dispensing,Faulty Pump Dispenser,-1,Low
+338,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+339,Aqualogica,Packaging & Dispensing,Faulty Pump Dispenser,-1,Low
+340,Aqualogica,Texture & Finish,Dewy Finish,1,Low
+340,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+341,Aqualogica,Overall Experience,General Satisfaction,1,Low
+342,Aqualogica,Packaging & Dispensing,Faulty Pump Dispenser,-1,Low
+343,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,1,Low
+344,Aqualogica,Texture & Finish,Dewy Finish,1,Low
+345,Aqualogica,Texture & Finish,Dewy Finish,-1,Low
+346,Aqualogica,Overall Experience,General Satisfaction,1,Low
+347,Aqualogica,Overall Experience,General Dissatisfaction,-1,High
+348,Aqualogica,Texture & Finish,Dewy Finish,1,Low
+348,Aqualogica,Texture & Finish,No White Cast,1,Low
+348,Aqualogica,Packaging & Dispensing,Faulty Pump Dispenser,-1,Low
+349,Aqualogica,Texture & Finish,Dewy Finish,1,Low
+350,Aqualogica,Texture & Finish,Sticky Residue,1,Low
+350,Aqualogica,Texture & Finish,Greasy Oily Feel,1,Low
+350,Aqualogica,Texture & Finish,No White Cast,1,Low
+351,Aqualogica,Sun Protection & Value,Effective Sun Protection,1,Low
+352,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+352,Aqualogica,Texture & Finish,No White Cast,1,Low
+353,Aqualogica,Texture & Finish,Quick Absorption,-1,Low
+353,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,High
+354,Aqualogica,Overall Experience,General Satisfaction,1,Low
+355,Aqualogica,Sun Protection & Value,Overpriced,-1,Low
+356,Aqualogica,Texture & Finish,No White Cast,1,Low
+356,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+357,Aqualogica,Texture & Finish,Matte Finish,0,Low
+358,Aqualogica,Overall Experience,General Satisfaction,1,Low
+359,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+359,Aqualogica,Skin Compatibility & Fragrance,Suits Oily Skin,1,Low
+360,Aqualogica,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+360,Aqualogica,Texture & Finish,Quick Absorption,1,Low
+361,Aqualogica,Packaging & Dispensing,Convenient Packaging,1,Low
+361,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+361,Aqualogica,Texture & Finish,No White Cast,1,Low
+362,Aqualogica,Sun Protection & Value,Overpriced,-1,Low
+362,Aqualogica,Texture & Finish,Dewy Finish,1,Low
+363,Aqualogica,Texture & Finish,No White Cast,1,Low
+363,Aqualogica,Texture & Finish,Quick Absorption,1,Low
+364,Aqualogica,Texture & Finish,Dewy Finish,1,Low
+364,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+365,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+365,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+366,Aqualogica,Texture & Finish,No White Cast,1,Low
+366,Aqualogica,Texture & Finish,Sticky Residue,-1,Low
+366,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+367,Aqualogica,Texture & Finish,Dewy Finish,-1,Low
+367,Aqualogica,Texture & Finish,No White Cast,1,Low
+367,Aqualogica,Skin Compatibility & Fragrance,Causes Breakouts,1,Low
+368,Aqualogica,Texture & Finish,No White Cast,1,Low
+368,Aqualogica,Texture & Finish,Quick Absorption,1,Low
+368,Aqualogica,Texture & Finish,Sticky Residue,1,Low
+368,Aqualogica,Skin Compatibility & Fragrance,Eye Stinging,-1,High
+369,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+369,Aqualogica,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+369,Aqualogica,Sun Protection & Value,Good Value Price,1,Low
+370,Aqualogica,Texture & Finish,Greasy Oily Feel,-1,Low
+370,Aqualogica,Overall Experience,General Satisfaction,1,Low
+371,Aqualogica,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+371,Aqualogica,Texture & Finish,White Cast Issue,0,Low
+371,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+372,Aqualogica,Skin Compatibility & Fragrance,Eye Stinging,-1,High
+373,Aqualogica,Overall Experience,General Satisfaction,0,Low
+374,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+374,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+375,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+375,Aqualogica,Texture & Finish,Dewy Finish,-1,Low
+376,Aqualogica,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+376,Aqualogica,Overall Experience,General Dissatisfaction,-1,High
+377,Aqualogica,Texture & Finish,No White Cast,1,Low
+377,Aqualogica,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+378,Aqualogica,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,High
+378,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+378,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+379,Aqualogica,Texture & Finish,Lightweight Texture,1,Low
+379,Aqualogica,Texture & Finish,No White Cast,1,Low
+379,Aqualogica,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,High
+379,Aqualogica,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+380,Aqualogica,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,High
+381,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+382,Dot & Key,Sun Protection & Value,Ineffective Sun Protection,-1,High
+383,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,High
+383,Dot & Key,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+384,Dot & Key,Overall Experience,General Satisfaction,1,Low
+385,Dot & Key,Skin Compatibility & Fragrance,Allergic Reaction,-1,High
+385,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+385,Dot & Key,Texture & Finish,No White Cast,1,Low
+386,Dot & Key,Sun Protection & Value,Suspected Fake Product,-1,High
+387,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,High
+387,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,High
+388,Dot & Key,Texture & Finish,Lightweight Texture,-1,High
+388,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,High
+389,Dot & Key,Texture & Finish,White Cast Issue,-1,Low
+390,Dot & Key,Sun Protection & Value,Small Quantity For Price,-1,High
+391,Dot & Key,Texture & Finish,White Cast Issue,-1,High
+392,Dot & Key,Skin Compatibility & Fragrance,Allergic Reaction,-1,High
+393,Dot & Key,Sun Protection & Value,Ineffective Sun Protection,-1,High
+394,Dot & Key,Skin Compatibility & Fragrance,Unpleasant Fragrance,-1,High
+394,Dot & Key,Packaging & Dispensing,Damaged On Delivery,-1,High
+395,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+395,Dot & Key,Overall Experience,General Satisfaction,1,Low
+396,Dot & Key,Texture & Finish,Lightweight Texture,-1,High
+396,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,High
+397,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,High
+398,Dot & Key,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+398,Dot & Key,Sun Protection & Value,Ineffective Sun Protection,-1,High
+399,Dot & Key,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,High
+400,Dot & Key,Texture & Finish,Matte Finish,-1,High
+401,Dot & Key,Overall Experience,General Dissatisfaction,-1,High
+402,Dot & Key,Texture & Finish,White Cast Issue,-1,Low
+403,Dot & Key,Skin Compatibility & Fragrance,Unpleasant Fragrance,-1,High
+403,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,High
+404,Dot & Key,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+405,Dot & Key,Skin Compatibility & Fragrance,Suits Sensitive Skin,0,Low
+406,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,High
+406,Dot & Key,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+407,Dot & Key,Texture & Finish,White Cast Issue,-1,High
+407,Dot & Key,Overall Experience,General Dissatisfaction,-1,High
+408,Dot & Key,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+408,Dot & Key,Texture & Finish,Sticky Residue,-1,High
+408,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,High
+409,Dot & Key,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+409,Dot & Key,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+410,Dot & Key,Sun Protection & Value,Overpriced,-1,High
+411,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,High
+412,Dot & Key,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,Low
+413,Dot & Key,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+413,Dot & Key,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+414,Dot & Key,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+414,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,High
+414,Dot & Key,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+415,Dot & Key,Sun Protection & Value,Ineffective Sun Protection,-1,High
+415,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,High
+415,Dot & Key,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,High
+416,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,High
+416,Dot & Key,Texture & Finish,White Cast Issue,-1,High
+417,Dot & Key,Texture & Finish,White Cast Issue,-1,High
+418,Dot & Key,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+418,Dot & Key,Sun Protection & Value,Overpriced,-1,High
+419,Dot & Key,Skin Compatibility & Fragrance,Unpleasant Fragrance,-1,High
+420,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,High
+421,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+421,Dot & Key,Skin Compatibility & Fragrance,Suits Oily Skin,1,Low
+422,Dot & Key,Texture & Finish,White Cast Issue,-1,Low
+422,Dot & Key,Skin Compatibility & Fragrance,Unpleasant Fragrance,-1,Low
+423,Dot & Key,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+424,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,Low
+424,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,Low
+424,Dot & Key,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+425,Dot & Key,Texture & Finish,White Cast Issue,-1,High
+425,Dot & Key,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+426,Dot & Key,Skin Compatibility & Fragrance,Unpleasant Fragrance,-1,Low
+427,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,Low
+427,Dot & Key,Skin Compatibility & Fragrance,Eye Stinging,-1,Low
+427,Dot & Key,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+428,Dot & Key,Sun Protection & Value,Suspected Fake Product,-1,High
+429,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,High
+430,Dot & Key,Texture & Finish,White Cast Issue,-1,High
+431,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,Low
+432,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,High
+432,Dot & Key,Texture & Finish,Sticky Residue,-1,High
+433,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,Low
+433,Dot & Key,Texture & Finish,Sticky Residue,-1,Low
+434,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+434,Dot & Key,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+435,Dot & Key,Texture & Finish,White Cast Issue,-1,Low
+436,Dot & Key,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+437,Dot & Key,Texture & Finish,White Cast Issue,-1,High
+437,Dot & Key,Skin Compatibility & Fragrance,Unpleasant Fragrance,-1,High
+438,Dot & Key,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+439,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,Low
+440,Dot & Key,Texture & Finish,White Cast Issue,-1,Low
+441,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,Low
+442,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,Low
+443,Dot & Key,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+444,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,Low
+444,Dot & Key,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+445,Dot & Key,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+446,Dot & Key,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,Low
+447,Dot & Key,Overall Experience,General Dissatisfaction,-1,Low
+448,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,High
+448,Dot & Key,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+449,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,Low
+450,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,Low
+451,Dot & Key,Texture & Finish,White Cast Issue,-1,High
+451,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,High
+451,Dot & Key,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+452,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,Low
+453,Dot & Key,Texture & Finish,White Cast Issue,-1,Low
+453,Dot & Key,Sun Protection & Value,Overpriced,-1,Low
+454,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+454,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+454,Dot & Key,Texture & Finish,Sticky Residue,1,Low
+454,Dot & Key,Texture & Finish,No White Cast,1,Low
+455,Dot & Key,Texture & Finish,Sticky Residue,1,Low
+455,Dot & Key,Texture & Finish,No White Cast,1,Low
+455,Dot & Key,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+456,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+456,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+456,Dot & Key,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+456,Dot & Key,Sun Protection & Value,Ineffective Sun Protection,-1,High
+457,Dot & Key,Overall Experience,General Satisfaction,1,Low
+458,Dot & Key,Skin Compatibility & Fragrance,Suits Sensitive Skin,0,Low
+459,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+459,Dot & Key,Texture & Finish,White Cast Issue,-1,Low
+460,Dot & Key,Texture & Finish,White Cast Issue,-1,Low
+460,Dot & Key,Texture & Finish,Sticky Residue,-1,Low
+461,Dot & Key,Overall Experience,General Dissatisfaction,-1,High
+462,Dot & Key,Texture & Finish,Quick Absorption,-1,High
+462,Dot & Key,Texture & Finish,White Cast Issue,-1,High
+463,Dot & Key,Texture & Finish,No White Cast,1,Low
+463,Dot & Key,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+464,Dot & Key,Skin Compatibility & Fragrance,Unpleasant Fragrance,-1,Low
+465,Dot & Key,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+465,Dot & Key,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+466,Dot & Key,Texture & Finish,White Cast Issue,-1,Low
+466,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,Low
+466,Dot & Key,Texture & Finish,Quick Absorption,-1,Low
+467,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,Low
+467,Dot & Key,Packaging & Dispensing,Convenient Packaging,1,Low
+468,Dot & Key,Sun Protection & Value,Ineffective Sun Protection,-1,Low
+469,Dot & Key,Skin Compatibility & Fragrance,Causes Breakouts,-1,Low
+470,Dot & Key,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,Low
+471,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+472,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,Low
+473,Dot & Key,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+474,Dot & Key,Texture & Finish,No White Cast,1,Low
+474,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+474,Dot & Key,Sun Protection & Value,Overpriced,-1,Low
+475,Dot & Key,Overall Experience,General Dissatisfaction,-1,Low
+476,Dot & Key,Texture & Finish,Sticky Residue,-1,Low
+476,Dot & Key,Sun Protection & Value,Small Quantity For Price,-1,Low
+477,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,High
+477,Dot & Key,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,High
+478,Dot & Key,Texture & Finish,Dewy Finish,-1,Low
+479,Dot & Key,Texture & Finish,No White Cast,1,Low
+479,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,Low
+480,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,Low
+480,Dot & Key,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,Low
+481,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,High
+482,Dot & Key,Texture & Finish,White Cast Issue,-1,High
+482,Dot & Key,Texture & Finish,Quick Absorption,-1,High
+482,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,High
+482,Dot & Key,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+483,Dot & Key,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+483,Dot & Key,Texture & Finish,Dewy Finish,1,High
+484,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,High
+485,Dot & Key,Sun Protection & Value,Ineffective Sun Protection,-1,High
+485,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,High
+486,Dot & Key,Texture & Finish,White Cast Issue,-1,Low
+486,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,Low
+487,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+487,Dot & Key,Sun Protection & Value,Ineffective Sun Protection,-1,Low
+488,Dot & Key,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+489,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,Low
+490,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,High
+491,Dot & Key,Texture & Finish,Quick Absorption,-1,Low
+491,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+492,Dot & Key,Texture & Finish,No White Cast,1,High
+492,Dot & Key,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+492,Dot & Key,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,High
+493,Dot & Key,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+494,Dot & Key,Texture & Finish,White Cast Issue,-1,Low
+494,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,Low
+495,Dot & Key,Texture & Finish,Lightweight Texture,0,Low
+495,Dot & Key,Texture & Finish,Quick Absorption,-1,Low
+496,Dot & Key,Texture & Finish,Lightweight Texture,-1,Low
+497,Dot & Key,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+497,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,High
+498,Dot & Key,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+498,Dot & Key,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+499,Dot & Key,Texture & Finish,No White Cast,1,High
+499,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,High
+500,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+500,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+500,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,Low
+501,Dot & Key,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+501,Dot & Key,Texture & Finish,Lightweight Texture,1,High
+501,Dot & Key,Texture & Finish,White Cast Issue,-1,High
+502,Dot & Key,Overall Experience,General Dissatisfaction,-1,Low
+503,Dot & Key,Texture & Finish,White Cast Issue,-1,Low
+503,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,Low
+504,Dot & Key,Texture & Finish,White Cast Issue,-1,High
+504,Dot & Key,Texture & Finish,Quick Absorption,-1,High
+504,Dot & Key,Sun Protection & Value,Overpriced,-1,High
+505,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,Low
+505,Dot & Key,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+506,Dot & Key,Overall Experience,General Dissatisfaction,-1,Low
+507,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,Low
+508,Dot & Key,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,High
+508,Dot & Key,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+508,Dot & Key,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+509,Dot & Key,Sun Protection & Value,Ineffective Sun Protection,-1,Low
+510,Dot & Key,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+511,Dot & Key,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+511,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,High
+512,Dot & Key,Texture & Finish,No White Cast,1,High
+512,Dot & Key,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+513,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+513,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,Low
+514,Dot & Key,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+514,Dot & Key,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+515,Dot & Key,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+516,Dot & Key,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+516,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,Low
+517,Dot & Key,Overall Experience,General Satisfaction,1,Low
+518,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,Low
+518,Dot & Key,Sun Protection & Value,Good Value Price,1,Low
+518,Dot & Key,Skin Compatibility & Fragrance,Suits Oily Skin,1,Low
+519,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+519,Dot & Key,Sun Protection & Value,Good Value Price,1,Low
+520,Dot & Key,Texture & Finish,No White Cast,1,Low
+520,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+520,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+520,Dot & Key,Skin Compatibility & Fragrance,Suits Oily Skin,1,Low
+521,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+522,Dot & Key,Overall Experience,General Satisfaction,0,Low
+523,Dot & Key,Packaging & Dispensing,Used Or Tampered Product,-1,Low
+523,Dot & Key,Overall Experience,General Satisfaction,1,Low
+524,Dot & Key,Texture & Finish,Greasy Oily Feel,1,Low
+524,Dot & Key,Skin Compatibility & Fragrance,Unpleasant Fragrance,-1,Low
+525,Dot & Key,Texture & Finish,Matte Finish,-1,Low
+526,Dot & Key,Texture & Finish,No White Cast,1,Low
+526,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+526,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+526,Dot & Key,Texture & Finish,Dewy Finish,0,Low
+527,Dot & Key,Texture & Finish,Lightweight Texture,0,Low
+528,Dot & Key,Overall Experience,General Satisfaction,1,Low
+529,Dot & Key,Texture & Finish,No White Cast,1,Low
+530,Dot & Key,Skin Compatibility & Fragrance,Suits Oily Skin,1,Low
+531,Dot & Key,Texture & Finish,Lightweight Texture,0,Low
+532,Dot & Key,Texture & Finish,Lightweight Texture,-1,Low
+532,Dot & Key,Texture & Finish,Sticky Residue,-1,Low
+532,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,Low
+533,Dot & Key,Texture & Finish,No White Cast,1,Low
+533,Dot & Key,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+534,Dot & Key,Texture & Finish,Lightweight Texture,0,Low
+535,Dot & Key,Overall Experience,General Satisfaction,1,Low
+536,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+536,Dot & Key,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+536,Dot & Key,Texture & Finish,No White Cast,1,Low
+536,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+536,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+537,Dot & Key,Skin Compatibility & Fragrance,Suits Oily Skin,1,Low
+538,Dot & Key,Texture & Finish,Lightweight Texture,-1,Low
+538,Dot & Key,Overall Experience,General Dissatisfaction,-1,Low
+539,Dot & Key,Overall Experience,General Satisfaction,1,Low
+540,Dot & Key,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+540,Dot & Key,Texture & Finish,Sticky Residue,1,Low
+541,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+541,Dot & Key,Texture & Finish,No White Cast,1,Low
+542,Dot & Key,Overall Experience,General Satisfaction,1,Low
+543,Dot & Key,Sun Protection & Value,Ineffective Sun Protection,-1,High
+544,Dot & Key,Texture & Finish,Sticky Residue,-1,Low
+545,Dot & Key,Overall Experience,General Dissatisfaction,0,Low
+546,Dot & Key,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+547,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+547,Dot & Key,Sun Protection & Value,Small Quantity For Price,-1,Low
+548,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+548,Dot & Key,Texture & Finish,No White Cast,1,Low
+548,Dot & Key,Sun Protection & Value,Good Value Price,1,Low
+549,Dot & Key,Overall Experience,General Satisfaction,1,Low
+550,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+550,Dot & Key,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+551,Dot & Key,Overall Experience,General Dissatisfaction,0,Low
+552,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+553,Dot & Key,Overall Experience,General Satisfaction,1,Low
+554,Dot & Key,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,Low
+555,Dot & Key,Overall Experience,General Satisfaction,1,Low
+556,Dot & Key,Overall Experience,General Satisfaction,1,Low
+557,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+558,Dot & Key,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,High
+559,Dot & Key,Packaging & Dispensing,Faulty Pump Dispenser,-1,Low
+560,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+560,Dot & Key,Texture & Finish,No White Cast,1,Low
+561,Dot & Key,Texture & Finish,Quick Absorption,-1,High
+561,Dot & Key,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+562,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+563,Dot & Key,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+563,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,High
+564,Dot & Key,Texture & Finish,Lightweight Texture,-1,Low
+565,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+565,Dot & Key,Skin Compatibility & Fragrance,Suits Sensitive Skin,1,Low
+566,Dot & Key,Texture & Finish,Lightweight Texture,-1,Low
+567,Dot & Key,Overall Experience,General Satisfaction,1,Low
+568,Dot & Key,Texture & Finish,Greasy Oily Feel,-1,Low
+569,Dot & Key,Overall Experience,General Dissatisfaction,-1,High
+570,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+570,Dot & Key,Skin Compatibility & Fragrance,Suits Oily Skin,1,Low
+571,Dot & Key,Overall Experience,General Satisfaction,1,Low
+572,Dot & Key,Texture & Finish,Greasy Oily Feel,0,Low
+572,Dot & Key,Skin Compatibility & Fragrance,Suits Oily Skin,1,Low
+573,Dot & Key,Overall Experience,General Satisfaction,1,Low
+574,Dot & Key,Texture & Finish,No White Cast,1,Low
+574,Dot & Key,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+574,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+575,Dot & Key,Overall Experience,General Satisfaction,0,Low
+576,Dot & Key,Packaging & Dispensing,Convenient Packaging,1,Low
+576,Dot & Key,Sun Protection & Value,Small Quantity For Price,-1,Low
+577,Dot & Key,Overall Experience,General Satisfaction,1,Low
+578,Dot & Key,Texture & Finish,No White Cast,1,Low
+578,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+579,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+579,Dot & Key,Texture & Finish,No White Cast,1,Low
+580,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+581,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+581,Dot & Key,Skin Compatibility & Fragrance,Suits Oily Skin,1,Low
+581,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+582,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+583,Dot & Key,Texture & Finish,Sticky Residue,1,Low
+583,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+584,Dot & Key,Texture & Finish,No White Cast,1,Low
+584,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+584,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+585,Dot & Key,Texture & Finish,Greasy Oily Feel,1,Low
+585,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+586,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+586,Dot & Key,Texture & Finish,No White Cast,1,Low
+586,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+587,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+588,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+589,Dot & Key,Texture & Finish,No White Cast,1,Low
+589,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+590,Dot & Key,Overall Experience,General Satisfaction,1,Low
+591,Dot & Key,Overall Experience,General Satisfaction,1,Low
+592,Dot & Key,Overall Experience,General Satisfaction,1,Low
+593,Dot & Key,Sun Protection & Value,Good Value Price,1,Low
+593,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+593,Dot & Key,Texture & Finish,Greasy Oily Feel,1,Low
+593,Dot & Key,Texture & Finish,Sticky Residue,1,Low
+593,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+594,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+595,Dot & Key,Packaging & Dispensing,Damaged On Delivery,-1,High
+596,Dot & Key,Packaging & Dispensing,Leaking Packaging,-1,Low
+596,Dot & Key,Texture & Finish,No White Cast,1,Low
+597,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+597,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+597,Dot & Key,Packaging & Dispensing,Leaking Packaging,-1,Low
+598,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+599,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+599,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+600,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+601,Dot & Key,Sun Protection & Value,Good Value Price,1,Low
+602,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+602,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+603,Dot & Key,Overall Experience,General Satisfaction,1,Low
+604,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+604,Dot & Key,Texture & Finish,No White Cast,1,Low
+605,Dot & Key,Texture & Finish,Sticky Residue,1,Low
+605,Dot & Key,Sun Protection & Value,Good Value Price,1,Low
+606,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+607,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+608,Dot & Key,Overall Experience,General Satisfaction,1,Low
+609,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+609,Dot & Key,Texture & Finish,No White Cast,1,Low
+610,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+610,Dot & Key,Texture & Finish,No White Cast,1,Low
+610,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+611,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+612,Dot & Key,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+612,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+612,Dot & Key,Texture & Finish,Sticky Residue,1,Low
+612,Dot & Key,Sun Protection & Value,Good Value Price,1,Low
+613,Dot & Key,Overall Experience,General Satisfaction,1,Low
+614,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+614,Dot & Key,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+615,Dot & Key,Sun Protection & Value,Good Value Price,1,Low
+616,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+616,Dot & Key,Sun Protection & Value,Good Value Price,1,Low
+617,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+618,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+618,Dot & Key,Packaging & Dispensing,Product Hard To Dispense,-1,Low
+619,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+619,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+620,Dot & Key,Sun Protection & Value,Good Value Price,1,Low
+621,Dot & Key,Sun Protection & Value,Effective Sun Protection,1,Low
+621,Dot & Key,Texture & Finish,Greasy Oily Feel,1,Low
+621,Dot & Key,Sun Protection & Value,Good Value Price,1,Low
+622,Dot & Key,Overall Experience,General Satisfaction,1,Low
+623,Dot & Key,Sun Protection & Value,Small Quantity For Price,-1,Low
+623,Dot & Key,Sun Protection & Value,Overpriced,-1,Low
+623,Dot & Key,Packaging & Dispensing,Convenient Packaging,1,Low
+623,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+624,Dot & Key,Overall Experience,General Satisfaction,1,Low
+625,Dot & Key,Overall Experience,General Satisfaction,1,Low
+626,Dot & Key,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+627,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+628,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+628,Dot & Key,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+629,Dot & Key,Overall Experience,General Satisfaction,1,Low
+630,Dot & Key,Overall Experience,General Satisfaction,1,Low
+631,Dot & Key,Texture & Finish,Sticky Residue,1,Low
+632,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+633,Dot & Key,Overall Experience,General Satisfaction,1,Low
+634,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+634,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+634,Dot & Key,Texture & Finish,No White Cast,1,Low
+635,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+636,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+636,Dot & Key,Packaging & Dispensing,Convenient Packaging,1,Low
+636,Dot & Key,Sun Protection & Value,Good Value Price,1,Low
+636,Dot & Key,Texture & Finish,Pilling Under Makeup,-1,Low
+636,Dot & Key,Sun Protection & Value,Effective Sun Protection,1,Low
+637,Dot & Key,Skin Compatibility & Fragrance,Suits Sensitive Skin,1,Low
+638,Dot & Key,Overall Experience,General Satisfaction,1,Low
+639,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+640,Dot & Key,Sun Protection & Value,Effective Sun Protection,1,Low
+640,Dot & Key,Texture & Finish,Greasy Oily Feel,1,Low
+640,Dot & Key,Sun Protection & Value,Good Value Price,1,Low
+641,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+641,Dot & Key,Texture & Finish,No White Cast,1,Low
+641,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+641,Dot & Key,Texture & Finish,Greasy Oily Feel,1,Low
+642,Dot & Key,Texture & Finish,Sticky Residue,1,Low
+642,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+642,Dot & Key,Sun Protection & Value,Good Value Price,1,Low
+643,Dot & Key,Texture & Finish,Greasy Oily Feel,1,Low
+644,Dot & Key,Sun Protection & Value,Effective Sun Protection,1,Low
+644,Dot & Key,Texture & Finish,Sticky Residue,1,Low
+644,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+645,Dot & Key,Texture & Finish,No White Cast,1,Low
+646,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+646,Dot & Key,Texture & Finish,No White Cast,1,Low
+646,Dot & Key,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+647,Dot & Key,Texture & Finish,Pilling Under Makeup,1,Low
+647,Dot & Key,Sun Protection & Value,Effective Sun Protection,1,Low
+647,Dot & Key,Skin Compatibility & Fragrance,Suits Sensitive Skin,1,Low
+648,Dot & Key,Texture & Finish,Greasy Oily Feel,1,Low
+648,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+649,Dot & Key,Texture & Finish,Sticky Residue,1,Low
+649,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+650,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+650,Dot & Key,Texture & Finish,No White Cast,1,Low
+651,Dot & Key,Sun Protection & Value,Effective Sun Protection,1,Low
+651,Dot & Key,Sun Protection & Value,Good Value Price,1,Low
+651,Dot & Key,Skin Compatibility & Fragrance,Suits Oily Skin,1,Low
+652,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+652,Dot & Key,Texture & Finish,No White Cast,1,Low
+653,Dot & Key,Texture & Finish,No White Cast,1,Low
+653,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+653,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+653,Dot & Key,Texture & Finish,Pilling Under Makeup,1,Low
+654,Dot & Key,Texture & Finish,No White Cast,1,Low
+655,Dot & Key,Overall Experience,General Satisfaction,1,Low
+656,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+656,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+656,Dot & Key,Texture & Finish,No White Cast,1,Low
+656,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+657,Dot & Key,Texture & Finish,Sticky Residue,1,Low
+657,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+657,Dot & Key,Texture & Finish,Greasy Oily Feel,1,Low
+657,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+658,Dot & Key,Overall Experience,General Satisfaction,1,Low
+659,Dot & Key,Overall Experience,General Satisfaction,1,Low
+660,Dot & Key,Texture & Finish,No White Cast,1,Low
+660,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+661,Dot & Key,Overall Experience,General Satisfaction,1,Low
+662,Dot & Key,Overall Experience,General Satisfaction,1,Low
+663,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+664,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+665,Dot & Key,Overall Experience,General Satisfaction,1,Low
+666,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+666,Dot & Key,Texture & Finish,No White Cast,1,Low
+666,Dot & Key,Texture & Finish,Pilling Under Makeup,1,Low
+667,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+667,Dot & Key,Texture & Finish,No White Cast,1,Low
+668,Dot & Key,Sun Protection & Value,Good Value Price,1,Low
+669,Dot & Key,Texture & Finish,No White Cast,1,Low
+669,Dot & Key,Sun Protection & Value,Effective Sun Protection,1,Low
+670,Dot & Key,Texture & Finish,Greasy Oily Feel,1,Low
+671,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+671,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+672,Dot & Key,Packaging & Dispensing,Convenient Packaging,1,Low
+673,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+674,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+675,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+676,Dot & Key,Overall Experience,General Satisfaction,1,Low
+677,Dot & Key,Overall Experience,General Satisfaction,1,Low
+678,Dot & Key,Overall Experience,General Satisfaction,1,Low
+679,Dot & Key,Overall Experience,General Satisfaction,1,Low
+680,Dot & Key,Sun Protection & Value,Good Value Price,1,Low
+681,Dot & Key,Overall Experience,General Satisfaction,1,Low
+682,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+682,Dot & Key,Texture & Finish,No White Cast,1,Low
+682,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+683,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+683,Dot & Key,Texture & Finish,Greasy Oily Feel,1,Low
+684,Dot & Key,Overall Experience,General Satisfaction,1,Low
+685,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+686,Dot & Key,Overall Experience,General Satisfaction,1,Low
+687,Dot & Key,Texture & Finish,No White Cast,1,Low
+687,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+688,Dot & Key,Sun Protection & Value,Good Value Price,1,Low
+688,Dot & Key,Texture & Finish,No White Cast,1,Low
+689,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+690,Dot & Key,Texture & Finish,No White Cast,1,Low
+691,Dot & Key,Overall Experience,General Satisfaction,1,Low
+692,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+693,Dot & Key,Overall Experience,General Satisfaction,1,Low
+694,Dot & Key,Texture & Finish,Greasy Oily Feel,1,Low
+695,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+696,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+696,Dot & Key,Skin Compatibility & Fragrance,Suits Sensitive Skin,1,Low
+697,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+697,Dot & Key,Sun Protection & Value,Good Value Price,1,Low
+698,Dot & Key,Overall Experience,General Satisfaction,1,Low
+699,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+700,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+700,Dot & Key,Texture & Finish,No White Cast,1,Low
+700,Dot & Key,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+701,Dot & Key,Texture & Finish,Greasy Oily Feel,1,Low
+702,Dot & Key,Overall Experience,General Satisfaction,1,Low
+703,Dot & Key,Overall Experience,General Satisfaction,1,Low
+704,Dot & Key,Texture & Finish,Sticky Residue,1,Low
+704,Dot & Key,Texture & Finish,No White Cast,1,Low
+705,Dot & Key,Texture & Finish,No White Cast,1,Low
+706,Dot & Key,Texture & Finish,No White Cast,1,Low
+706,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+707,Dot & Key,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+707,Dot & Key,Texture & Finish,No White Cast,1,Low
+708,Dot & Key,Sun Protection & Value,Good Value Price,1,Low
+708,Dot & Key,Skin Compatibility & Fragrance,Suits Sensitive Skin,1,Low
+709,Dot & Key,Overall Experience,General Satisfaction,1,Low
+710,Dot & Key,Overall Experience,General Satisfaction,1,Low
+711,Dot & Key,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+711,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+711,Dot & Key,Texture & Finish,No White Cast,1,Low
+711,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+712,Dot & Key,Skin Compatibility & Fragrance,Suits Sensitive Skin,1,Low
+713,Dot & Key,Overall Experience,General Satisfaction,1,Low
+714,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+714,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+715,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+715,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+716,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+716,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+717,Dot & Key,Texture & Finish,No White Cast,1,Low
+717,Dot & Key,Sun Protection & Value,Effective Sun Protection,1,Low
+718,Dot & Key,Texture & Finish,No White Cast,1,Low
+718,Dot & Key,Texture & Finish,Matte Finish,1,Low
+719,Dot & Key,Texture & Finish,No White Cast,1,Low
+719,Dot & Key,Texture & Finish,Sticky Residue,1,Low
+720,Dot & Key,Overall Experience,General Satisfaction,1,Low
+721,Dot & Key,Overall Experience,General Satisfaction,1,Low
+722,Dot & Key,Packaging & Dispensing,Convenient Packaging,1,Low
+722,Dot & Key,Texture & Finish,Greasy Oily Feel,1,Low
+722,Dot & Key,Texture & Finish,Sticky Residue,1,Low
+723,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+724,Dot & Key,Overall Experience,General Satisfaction,1,Low
+725,Dot & Key,Texture & Finish,No White Cast,1,Low
+726,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+727,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+727,Dot & Key,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+727,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+728,Dot & Key,Sun Protection & Value,Effective Sun Protection,1,Low
+729,Dot & Key,Texture & Finish,No White Cast,1,Low
+729,Dot & Key,Texture & Finish,Pilling Under Makeup,1,Low
+729,Dot & Key,Skin Compatibility & Fragrance,Suits Sensitive Skin,1,Low
+730,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+730,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+731,Dot & Key,Overall Experience,General Satisfaction,1,Low
+732,Dot & Key,Texture & Finish,No White Cast,1,Low
+732,Dot & Key,Sun Protection & Value,Effective Sun Protection,1,Low
+733,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+733,Dot & Key,Sun Protection & Value,Effective Sun Protection,1,Low
+734,Dot & Key,Overall Experience,General Satisfaction,1,Low
+735,Dot & Key,Texture & Finish,No White Cast,1,Low
+736,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+737,Dot & Key,Overall Experience,General Satisfaction,1,Low
+738,Dot & Key,Overall Experience,General Satisfaction,1,Low
+739,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+739,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+740,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+740,Dot & Key,Texture & Finish,Sticky Residue,1,Low
+741,Dot & Key,Skin Compatibility & Fragrance,Suits Oily Skin,1,Low
+741,Dot & Key,Texture & Finish,Greasy Oily Feel,1,Low
+742,Dot & Key,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+743,Dot & Key,Skin Compatibility & Fragrance,Suits Oily Skin,1,Low
+744,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+744,Dot & Key,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+744,Dot & Key,Texture & Finish,No White Cast,1,Low
+745,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+746,Dot & Key,Overall Experience,General Satisfaction,1,Low
+747,Dot & Key,Overall Experience,General Satisfaction,1,Low
+748,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+748,Dot & Key,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+749,Dot & Key,Packaging & Dispensing,Convenient Packaging,1,Low
+750,Dot & Key,Overall Experience,General Satisfaction,1,Low
+751,Dot & Key,Overall Experience,General Satisfaction,1,Low
+752,Dot & Key,Skin Compatibility & Fragrance,Suits Sensitive Skin,1,Low
+752,Dot & Key,Sun Protection & Value,Good Value Price,1,Low
+753,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+753,Dot & Key,Texture & Finish,No White Cast,1,Low
+754,Dot & Key,Overall Experience,General Satisfaction,1,Low
+755,Dot & Key,Skin Compatibility & Fragrance,Suits Sensitive Skin,1,Low
+755,Dot & Key,Texture & Finish,Dewy Finish,1,Low
+755,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+756,Dot & Key,Texture & Finish,Lightweight Texture,1,Low
+756,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+756,Dot & Key,Texture & Finish,No White Cast,1,Low
+756,Dot & Key,Texture & Finish,Sticky Residue,1,Low
+757,Dot & Key,Overall Experience,General Satisfaction,1,Low
+758,Dot & Key,Texture & Finish,Quick Absorption,1,Low
+758,Dot & Key,Texture & Finish,No White Cast,1,Low
+759,Dot & Key,Skin Compatibility & Fragrance,Suits Oily Skin,1,Low
+760,Dot & Key,Overall Experience,General Satisfaction,1,Low
+761,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+761,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+761,Minimalist,Texture & Finish,White Cast Issue,-1,High
+762,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+763,Minimalist,Texture & Finish,Pilling Under Makeup,-1,High
+764,Minimalist,Texture & Finish,Quick Absorption,-1,High
+764,Minimalist,Texture & Finish,Pilling Under Makeup,-1,High
+765,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+765,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+766,Minimalist,Sun Protection & Value,Good Value Price,1,Low
+766,Minimalist,Texture & Finish,Lightweight Texture,0,Low
+767,Minimalist,Texture & Finish,White Cast Issue,-1,High
+767,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+767,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+768,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+768,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+769,Minimalist,Skin Compatibility & Fragrance,Allergic Reaction,-1,High
+770,Minimalist,Texture & Finish,White Cast Issue,-1,High
+770,Minimalist,Texture & Finish,Pilling Under Makeup,-1,High
+771,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+771,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+772,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+772,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+773,Minimalist,Skin Compatibility & Fragrance,Unpleasant Fragrance,-1,High
+774,Minimalist,Texture & Finish,Pilling Under Makeup,-1,High
+775,Minimalist,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+775,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+776,Minimalist,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+776,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+777,Minimalist,Texture & Finish,Quick Absorption,-1,High
+777,Minimalist,Texture & Finish,White Cast Issue,-1,High
+777,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+778,Minimalist,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+779,Minimalist,Texture & Finish,No White Cast,0,Low
+780,Minimalist,Texture & Finish,No White Cast,1,Low
+780,Minimalist,Sun Protection & Value,Good Value Price,1,Low
+781,Minimalist,Overall Experience,General Satisfaction,1,Low
+782,Minimalist,Texture & Finish,Matte Finish,1,Low
+782,Minimalist,Skin Compatibility & Fragrance,Eye Stinging,-1,High
+783,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+784,Minimalist,Overall Experience,General Satisfaction,0,Low
+785,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+785,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+786,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,1,Low
+786,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+787,Minimalist,Texture & Finish,Sticky Residue,1,Low
+787,Minimalist,Texture & Finish,Lightweight Texture,1,Low
+787,Minimalist,Texture & Finish,Greasy Oily Feel,1,Low
+788,Minimalist,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+788,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+788,Minimalist,Sun Protection & Value,Small Quantity For Price,0,Low
+789,Minimalist,Overall Experience,General Satisfaction,0,Low
+790,Minimalist,Packaging & Dispensing,Convenient Packaging,1,Low
+790,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+790,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+791,Minimalist,Texture & Finish,Lightweight Texture,-1,Low
+791,Minimalist,Sun Protection & Value,Overpriced,-1,Low
+792,Minimalist,Texture & Finish,No White Cast,1,Low
+792,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,1,Low
+793,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,0,Low
+793,Minimalist,Texture & Finish,Lightweight Texture,-1,Low
+794,Minimalist,Sun Protection & Value,Ineffective Sun Protection,-1,Low
+794,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+795,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+795,Minimalist,Texture & Finish,No White Cast,1,Low
+795,Minimalist,Sun Protection & Value,Effective Sun Protection,1,Low
+796,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+796,Minimalist,Texture & Finish,Lightweight Texture,-1,Low
+796,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+797,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+797,Minimalist,Overall Experience,General Satisfaction,1,Low
+798,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+798,Minimalist,Texture & Finish,Sticky Residue,-1,Low
+798,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+799,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+799,Minimalist,Overall Experience,General Satisfaction,1,Low
+800,Minimalist,Skin Compatibility & Fragrance,Suits Sensitive Skin,1,Low
+800,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+800,Minimalist,Overall Experience,General Satisfaction,1,Low
+801,Minimalist,Overall Experience,General Satisfaction,1,Low
+802,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+803,Minimalist,Overall Experience,General Dissatisfaction,-1,Low
+803,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+804,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+804,Minimalist,Texture & Finish,Quick Absorption,1,Low
+804,Minimalist,Texture & Finish,No White Cast,1,Low
+805,Minimalist,Overall Experience,General Satisfaction,1,Low
+806,Minimalist,Overall Experience,General Dissatisfaction,-1,High
+807,Minimalist,Texture & Finish,Pilling Under Makeup,-1,High
+807,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+808,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+808,Minimalist,Texture & Finish,Quick Absorption,-1,Low
+809,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+809,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+809,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+810,Minimalist,Texture & Finish,Quick Absorption,-1,Low
+811,Minimalist,Texture & Finish,Quick Absorption,1,Low
+812,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+812,Minimalist,Texture & Finish,Pilling Under Makeup,-1,High
+812,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+813,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,Low
+813,Minimalist,Texture & Finish,Quick Absorption,1,Low
+814,Minimalist,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,High
+814,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+815,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+816,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+817,Minimalist,Texture & Finish,No White Cast,1,Low
+817,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+818,Minimalist,Packaging & Dispensing,Faulty Pump Dispenser,-1,Low
+819,Minimalist,Texture & Finish,Lightweight Texture,1,Low
+819,Minimalist,Texture & Finish,Sticky Residue,-1,Low
+819,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+820,Minimalist,Overall Experience,General Satisfaction,1,Low
+821,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+822,Minimalist,Overall Experience,General Satisfaction,0,Low
+822,Minimalist,Skin Compatibility & Fragrance,Suits Sensitive Skin,1,Low
+823,Minimalist,Overall Experience,General Satisfaction,1,Low
+824,Minimalist,Texture & Finish,Pilling Under Makeup,0,Low
+825,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+826,Minimalist,Overall Experience,General Satisfaction,1,Low
+827,Minimalist,Texture & Finish,Sticky Residue,-1,Low
+827,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+828,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+829,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+830,Minimalist,Texture & Finish,Lightweight Texture,-1,Low
+831,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+832,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+832,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+832,Minimalist,Texture & Finish,Sticky Residue,-1,High
+833,Minimalist,Skin Compatibility & Fragrance,Suits Sensitive Skin,1,Low
+833,Minimalist,Texture & Finish,No White Cast,1,Low
+834,Minimalist,Texture & Finish,Quick Absorption,-1,Low
+834,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+835,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+836,Minimalist,Packaging & Dispensing,Convenient Packaging,-1,Low
+837,Minimalist,Texture & Finish,Lightweight Texture,1,High
+837,Minimalist,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,High
+837,Minimalist,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+837,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+838,Minimalist,Overall Experience,General Dissatisfaction,-1,High
+839,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,Low
+840,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+841,Minimalist,Texture & Finish,Quick Absorption,1,Low
+841,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+842,Minimalist,Sun Protection & Value,Effective Sun Protection,1,Low
+842,Minimalist,Texture & Finish,Lightweight Texture,-1,Low
+843,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+844,Minimalist,Overall Experience,General Satisfaction,1,Low
+845,Minimalist,Texture & Finish,Sticky Residue,-1,Low
+846,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+847,Minimalist,Skin Compatibility & Fragrance,Allergic Reaction,-1,High
+848,Minimalist,Sun Protection & Value,Ineffective Sun Protection,0,Low
+849,Minimalist,Sun Protection & Value,Effective Sun Protection,1,Low
+849,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+850,Minimalist,Overall Experience,General Satisfaction,1,Low
+851,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+852,Minimalist,Overall Experience,General Satisfaction,1,Low
+853,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+854,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+855,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+856,Minimalist,Sun Protection & Value,Effective Sun Protection,1,Low
+856,Minimalist,Texture & Finish,Sticky Residue,-1,Low
+857,Minimalist,Sun Protection & Value,Effective Sun Protection,1,Low
+857,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+858,Minimalist,Packaging & Dispensing,Small Quantity For Price,-1,Low
+859,Minimalist,Texture & Finish,Pilling Under Makeup,-1,High
+859,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+860,Minimalist,Texture & Finish,Lightweight Texture,-1,Low
+861,Minimalist,Packaging & Dispensing,Convenient Packaging,-1,Low
+862,Minimalist,Overall Experience,General Satisfaction,1,Low
+863,Minimalist,Texture & Finish,No White Cast,1,Low
+863,Minimalist,Texture & Finish,Lightweight Texture,1,Low
+864,Minimalist,Texture & Finish,Lightweight Texture,1,Low
+865,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+866,Minimalist,Texture & Finish,No White Cast,1,Low
+867,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+868,Minimalist,Texture & Finish,No White Cast,1,Low
+869,Minimalist,Texture & Finish,No White Cast,1,Low
+870,Minimalist,Texture & Finish,White Cast Issue,0,Low
+871,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+872,Minimalist,Sun Protection & Value,Effective Sun Protection,1,Low
+872,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+873,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,Low
+874,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+875,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+876,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+877,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+877,Minimalist,Sun Protection & Value,Good Value Price,1,Low
+877,Minimalist,Texture & Finish,No White Cast,1,Low
+878,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+878,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+879,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+880,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+881,Minimalist,Sun Protection & Value,Small Quantity For Price,-1,Low
+882,Minimalist,Texture & Finish,No White Cast,1,Low
+882,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+883,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+884,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+885,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+886,Minimalist,Overall Experience,General Dissatisfaction,-1,Low
+887,Minimalist,Sun Protection & Value,Ineffective Sun Protection,-1,Low
+888,Minimalist,Texture & Finish,Sticky Residue,-1,High
+889,Minimalist,Sun Protection & Value,Good Value Price,1,Low
+889,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+889,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+890,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+891,Minimalist,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+892,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+893,Minimalist,Sun Protection & Value,Effective Sun Protection,1,Low
+893,Minimalist,Texture & Finish,Dewy Finish,-1,Low
+894,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+895,Minimalist,Texture & Finish,Pilling Under Makeup,-1,High
+896,Minimalist,Texture & Finish,Pilling Under Makeup,1,Low
+897,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+898,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+899,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+900,Minimalist,Overall Experience,General Dissatisfaction,0,High
+901,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+902,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+903,Minimalist,Overall Experience,General Satisfaction,0,Low
+904,Minimalist,Sun Protection & Value,Effective Sun Protection,1,Low
+904,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+905,Minimalist,Texture & Finish,Lightweight Texture,1,Low
+905,Minimalist,Texture & Finish,No White Cast,1,Low
+905,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+906,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+906,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+906,Minimalist,Texture & Finish,White Cast Issue,-1,High
+906,Minimalist,Texture & Finish,Dewy Finish,1,Low
+907,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+907,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+908,Minimalist,Sun Protection & Value,Effective Sun Protection,1,Low
+908,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+909,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+909,Minimalist,Texture & Finish,Quick Absorption,-1,Low
+910,Minimalist,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,High
+910,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+911,Minimalist,Sun Protection & Value,Ineffective Sun Protection,-1,High
+911,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+912,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+913,Minimalist,Overall Experience,General Satisfaction,0,Low
+914,Minimalist,Texture & Finish,Quick Absorption,1,Low
+914,Minimalist,Skin Compatibility & Fragrance,Eye Stinging,-1,High
+914,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+915,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+916,Minimalist,Texture & Finish,White Cast Issue,-1,High
+916,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+916,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+917,Minimalist,Overall Experience,General Satisfaction,1,Low
+917,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,Low
+917,Minimalist,Texture & Finish,Sticky Residue,-1,Low
+918,Minimalist,Texture & Finish,Dewy Finish,1,Low
+918,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+919,Minimalist,Overall Experience,General Satisfaction,1,Low
+919,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+919,Minimalist,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,High
+919,Minimalist,Texture & Finish,Dewy Finish,1,Low
+920,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+920,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+921,Minimalist,Texture & Finish,Lightweight Texture,1,Low
+921,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+922,Minimalist,Overall Experience,General Dissatisfaction,-1,Low
+923,Minimalist,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,Low
+923,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+923,Minimalist,Texture & Finish,No White Cast,1,Low
+924,Minimalist,Skin Compatibility & Fragrance,Unpleasant Fragrance,-1,Low
+925,Minimalist,Sun Protection & Value,Effective Sun Protection,1,Low
+925,Minimalist,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+926,Minimalist,Texture & Finish,No White Cast,1,Low
+926,Minimalist,Texture & Finish,Sticky Residue,-1,Low
+927,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,0,Low
+927,Minimalist,Texture & Finish,Sticky Residue,-1,Low
+927,Minimalist,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+928,Minimalist,Texture & Finish,Sticky Residue,-1,Low
+929,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+929,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+929,Minimalist,Overall Experience,General Satisfaction,1,Low
+930,Minimalist,Texture & Finish,Dewy Finish,1,Low
+930,Minimalist,Texture & Finish,Lightweight Texture,-1,Low
+931,Minimalist,Sun Protection & Value,Effective Sun Protection,1,Low
+932,Minimalist,Sun Protection & Value,Effective Sun Protection,1,Low
+932,Minimalist,Skin Compatibility & Fragrance,Eye Stinging,-1,High
+932,Minimalist,Texture & Finish,Dewy Finish,-1,Low
+932,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+933,Minimalist,Texture & Finish,Quick Absorption,-1,Low
+933,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+933,Minimalist,Overall Experience,General Satisfaction,1,Low
+934,Minimalist,Texture & Finish,Quick Absorption,-1,Low
+934,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+935,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+935,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+936,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+936,Minimalist,Skin Compatibility & Fragrance,Suits Sensitive Skin,1,Low
+937,Minimalist,Skin Compatibility & Fragrance,Eye Stinging,-1,High
+937,Minimalist,Texture & Finish,White Cast Issue,-1,High
+938,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+939,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+939,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+940,Minimalist,Texture & Finish,Lightweight Texture,1,Low
+940,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+940,Minimalist,Texture & Finish,Quick Absorption,-1,Low
+941,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+942,Minimalist,Sun Protection & Value,Overpriced,-1,Low
+942,Minimalist,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+943,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+943,Minimalist,Texture & Finish,Quick Absorption,-1,Low
+943,Minimalist,Sun Protection & Value,Effective Sun Protection,1,Low
+944,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+944,Minimalist,Overall Experience,General Satisfaction,1,Low
+945,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+946,Minimalist,Packaging & Dispensing,Convenient Packaging,1,Low
+946,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+946,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+947,Minimalist,Texture & Finish,No White Cast,1,Low
+947,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+948,Minimalist,Sun Protection & Value,Good Value Price,1,Low
+948,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+949,Minimalist,Overall Experience,General Satisfaction,1,Low
+949,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+950,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+950,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+951,Minimalist,Texture & Finish,No White Cast,1,Low
+951,Minimalist,Texture & Finish,Greasy Oily Feel,1,Low
+951,Minimalist,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+952,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+953,Minimalist,Texture & Finish,Lightweight Texture,1,Low
+953,Minimalist,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+954,Minimalist,Skin Compatibility & Fragrance,Eye Stinging,-1,High
+955,Minimalist,Skin Compatibility & Fragrance,Suits Sensitive Skin,1,Low
+955,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+956,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+956,Minimalist,Skin Compatibility & Fragrance,Unpleasant Fragrance,-1,High
+956,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+957,Minimalist,Overall Experience,General Satisfaction,1,Low
+958,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+958,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+959,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,1,Low
+959,Minimalist,Texture & Finish,Lightweight Texture,1,Low
+960,Minimalist,Overall Experience,General Satisfaction,1,Low
+961,Minimalist,Texture & Finish,No White Cast,1,Low
+961,Minimalist,Texture & Finish,Pilling Under Makeup,-1,High
+962,Minimalist,Sun Protection & Value,Effective Sun Protection,1,Low
+963,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+964,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+964,Minimalist,Sun Protection & Value,Overpriced,-1,High
+965,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+965,Minimalist,Texture & Finish,Sticky Residue,-1,High
+965,Minimalist,Texture & Finish,White Cast Issue,-1,High
+965,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+966,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+967,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+967,Minimalist,Texture & Finish,Dewy Finish,1,Low
+967,Minimalist,Texture & Finish,No White Cast,1,Low
+967,Minimalist,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,High
+968,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+969,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+970,Minimalist,Overall Experience,General Satisfaction,1,Low
+971,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+971,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+972,Minimalist,Overall Experience,General Dissatisfaction,0,Low
+973,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+974,Minimalist,Texture & Finish,No White Cast,1,Low
+974,Minimalist,Sun Protection & Value,Effective Sun Protection,1,Low
+975,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+975,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+976,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+976,Minimalist,Texture & Finish,Pilling Under Makeup,-1,High
+977,Minimalist,Sun Protection & Value,Small Quantity For Price,-1,Low
+978,Minimalist,Skin Compatibility & Fragrance,Skin Darkening,-1,Low
+978,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+979,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+979,Minimalist,Sun Protection & Value,Overpriced,-1,High
+980,Minimalist,Sun Protection & Value,Effective Sun Protection,1,Low
+981,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+981,Minimalist,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+982,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+982,Minimalist,Texture & Finish,Quick Absorption,-1,Low
+983,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+983,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+984,Minimalist,Skin Compatibility & Fragrance,Eye Stinging,-1,Low
+985,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+985,Minimalist,Texture & Finish,White Cast Issue,-1,High
+986,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,Low
+986,Minimalist,Sun Protection & Value,Ineffective Sun Protection,-1,Low
+987,Minimalist,Skin Compatibility & Fragrance,Unpleasant Fragrance,-1,Low
+987,Minimalist,Overall Experience,General Satisfaction,1,Low
+988,Minimalist,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,Low
+988,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+989,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+989,Minimalist,Texture & Finish,Quick Absorption,-1,Low
+990,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+991,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+991,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+992,Minimalist,Texture & Finish,Lightweight Texture,-1,High
+992,Minimalist,Sun Protection & Value,Overpriced,-1,High
+993,Minimalist,Texture & Finish,White Cast Issue,-1,High
+993,Minimalist,Texture & Finish,Lightweight Texture,-1,High
+994,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+995,Minimalist,Texture & Finish,Lightweight Texture,-1,Low
+996,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+996,Minimalist,Texture & Finish,Quick Absorption,-1,Low
+997,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+997,Minimalist,Texture & Finish,Sticky Residue,-1,Low
+998,Minimalist,Sun Protection & Value,Effective Sun Protection,1,Low
+998,Minimalist,Texture & Finish,White Cast Issue,-1,High
+999,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+999,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+999,Minimalist,Texture & Finish,Lightweight Texture,-1,High
+1000,Minimalist,Texture & Finish,Quick Absorption,-1,Low
+1000,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+1001,Minimalist,Texture & Finish,Sticky Residue,1,Low
+1001,Minimalist,Texture & Finish,Sticky Residue,-1,Low
+1002,Minimalist,Overall Experience,General Dissatisfaction,-1,Low
+1003,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1003,Minimalist,Texture & Finish,No White Cast,1,Low
+1004,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+1004,Minimalist,Texture & Finish,Lightweight Texture,-1,High
+1005,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+1005,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+1005,Minimalist,Texture & Finish,Sticky Residue,-1,High
+1005,Minimalist,Skin Compatibility & Fragrance,Skin Darkening,-1,High
+1006,Minimalist,Texture & Finish,Lightweight Texture,-1,Low
+1006,Minimalist,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,Low
+1007,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1007,Minimalist,Texture & Finish,Quick Absorption,-1,Low
+1008,Minimalist,Sun Protection & Value,Small Quantity For Price,-1,High
+1008,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+1009,Minimalist,Texture & Finish,Lightweight Texture,1,Low
+1009,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+1010,Minimalist,Texture & Finish,Lightweight Texture,-1,Low
+1011,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+1012,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1013,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+1014,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1015,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+1015,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1016,Minimalist,Texture & Finish,Pilling Under Makeup,-1,High
+1016,Minimalist,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,High
+1017,Minimalist,Texture & Finish,Lightweight Texture,1,Low
+1017,Minimalist,Sun Protection & Value,Small Quantity For Price,-1,High
+1018,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+1018,Minimalist,Texture & Finish,White Cast Issue,-1,High
+1019,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1020,Minimalist,Texture & Finish,No White Cast,1,Low
+1020,Minimalist,Skin Compatibility & Fragrance,Eye Stinging,-1,High
+1021,Minimalist,Texture & Finish,Lightweight Texture,1,Low
+1021,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1021,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+1022,Minimalist,Overall Experience,General Satisfaction,1,Low
+1022,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1023,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+1023,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+1024,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1025,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+1026,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1027,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1027,Minimalist,Texture & Finish,Quick Absorption,-1,Low
+1028,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+1028,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,Low
+1029,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+1029,Minimalist,Texture & Finish,White Cast Issue,-1,High
+1029,Minimalist,Texture & Finish,Quick Absorption,-1,High
+1030,Minimalist,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,Low
+1031,Minimalist,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,Low
+1032,Minimalist,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,Low
+1033,Minimalist,Texture & Finish,White Cast Issue,-1,High
+1033,Minimalist,Texture & Finish,Dewy Finish,-1,High
+1033,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+1034,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1034,Minimalist,Overall Experience,General Satisfaction,1,Low
+1035,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1036,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1036,Minimalist,Sun Protection & Value,Effective Sun Protection,1,Low
+1037,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1037,Minimalist,Texture & Finish,Sticky Residue,1,Low
+1037,Minimalist,Texture & Finish,Quick Absorption,0,Low
+1038,Minimalist,Texture & Finish,No White Cast,1,Low
+1038,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+1039,Minimalist,Texture & Finish,Lightweight Texture,-1,Low
+1039,Minimalist,Texture & Finish,Quick Absorption,-1,Low
+1039,Minimalist,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,Low
+1040,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1040,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1041,Minimalist,Texture & Finish,Sticky Residue,-1,High
+1041,Minimalist,Texture & Finish,No White Cast,1,Low
+1041,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+1042,Minimalist,Sun Protection & Value,Effective Sun Protection,1,Low
+1042,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1042,Minimalist,Texture & Finish,Sticky Residue,-1,Low
+1042,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1043,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+1044,Minimalist,Sun Protection & Value,Good Value Price,1,Low
+1044,Minimalist,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,Low
+1044,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1044,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1045,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+1045,Minimalist,Texture & Finish,Quick Absorption,-1,Low
+1046,Minimalist,Texture & Finish,Quick Absorption,-1,High
+1046,Minimalist,Skin Compatibility & Fragrance,Eye Stinging,-1,High
+1046,Minimalist,Texture & Finish,White Cast Issue,-1,High
+1046,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+1047,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1047,Minimalist,Texture & Finish,Lightweight Texture,-1,Low
+1047,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+1048,Minimalist,Overall Experience,General Satisfaction,1,Low
+1048,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1049,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+1049,Minimalist,Texture & Finish,Lightweight Texture,-1,High
+1049,Minimalist,Texture & Finish,Quick Absorption,-1,High
+1050,Minimalist,Skin Compatibility & Fragrance,Eye Stinging,-1,High
+1051,Minimalist,Sun Protection & Value,Effective Sun Protection,1,Low
+1051,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1051,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+1052,Minimalist,Sun Protection & Value,Ineffective Sun Protection,-1,Low
+1052,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+1052,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1053,Minimalist,Texture & Finish,Quick Absorption,-1,Low
+1053,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1054,Minimalist,Texture & Finish,White Cast Issue,-1,High
+1054,Minimalist,Texture & Finish,Pilling Under Makeup,-1,High
+1055,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+1055,Minimalist,Texture & Finish,White Cast Issue,-1,High
+1056,Minimalist,Texture & Finish,No White Cast,1,Low
+1056,Minimalist,Texture & Finish,Quick Absorption,1,Low
+1056,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1057,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1058,Minimalist,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,Low
+1059,Minimalist,Texture & Finish,Lightweight Texture,-1,High
+1059,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,High
+1059,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+1060,Minimalist,Texture & Finish,No White Cast,1,Low
+1060,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1061,Minimalist,Texture & Finish,No White Cast,1,Low
+1061,Minimalist,Texture & Finish,Quick Absorption,1,Low
+1061,Minimalist,Texture & Finish,Sticky Residue,-1,Low
+1061,Minimalist,Texture & Finish,Lightweight Texture,-1,Low
+1062,Minimalist,Sun Protection & Value,Ineffective Sun Protection,-1,High
+1063,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+1063,Minimalist,Skin Compatibility & Fragrance,Suits Sensitive Skin,1,Low
+1063,Minimalist,Texture & Finish,No White Cast,1,Low
+1063,Minimalist,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+1064,Minimalist,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,Low
+1064,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1065,Minimalist,Texture & Finish,Lightweight Texture,-1,Low
+1065,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1066,Minimalist,Skin Compatibility & Fragrance,Eye Stinging,-1,High
+1067,Minimalist,Skin Compatibility & Fragrance,Suits Sensitive Skin,-1,Low
+1067,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1068,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1068,Minimalist,Skin Compatibility & Fragrance,Suits Oily Skin,-1,Low
+1069,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1069,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+1070,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1070,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1071,Minimalist,Skin Compatibility & Fragrance,Eye Stinging,-1,High
+1072,Minimalist,Texture & Finish,Quick Absorption,-1,High
+1072,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+1073,Minimalist,Texture & Finish,Lightweight Texture,-1,Low
+1073,Minimalist,Texture & Finish,Sticky Residue,-1,Low
+1074,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1074,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1075,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+1075,Minimalist,Skin Compatibility & Fragrance,Eye Stinging,-1,High
+1076,Minimalist,Texture & Finish,White Cast Issue,-1,High
+1076,Minimalist,Texture & Finish,Quick Absorption,-1,High
+1077,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1077,Minimalist,Texture & Finish,Lightweight Texture,-1,Low
+1078,Minimalist,Texture & Finish,Quick Absorption,-1,Low
+1078,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+1079,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1079,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1080,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1081,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+1081,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1082,Minimalist,Overall Experience,General Dissatisfaction,-1,Low
+1083,Minimalist,Sun Protection & Value,Small Quantity For Price,-1,Low
+1084,Minimalist,Texture & Finish,White Cast Issue,-1,High
+1084,Minimalist,Texture & Finish,Pilling Under Makeup,-1,High
+1084,Minimalist,Packaging & Dispensing,Convenient Packaging,-1,High
+1085,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1086,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+1087,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1088,Minimalist,Overall Experience,General Dissatisfaction,-1,Low
+1089,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1089,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,Low
+1090,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1090,Minimalist,Sun Protection & Value,Effective Sun Protection,1,Low
+1091,Minimalist,Sun Protection & Value,Overpriced,-1,Low
+1091,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1092,Minimalist,Sun Protection & Value,Ineffective Sun Protection,-1,Low
+1093,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+1094,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1095,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+1095,Minimalist,Texture & Finish,No White Cast,1,Low
+1096,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+1097,Minimalist,Skin Compatibility & Fragrance,Eye Stinging,-1,High
+1098,Minimalist,Texture & Finish,White Cast Issue,-1,High
+1098,Minimalist,Skin Compatibility & Fragrance,Eye Stinging,-1,High
+1099,Minimalist,Overall Experience,General Satisfaction,1,Low
+1100,Minimalist,Texture & Finish,Sticky Residue,-1,Low
+1100,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1101,Minimalist,Skin Compatibility & Fragrance,Allergic Reaction,-1,High
+1102,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+1102,Minimalist,Texture & Finish,White Cast Issue,-1,High
+1103,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+1104,Minimalist,Texture & Finish,Sticky Residue,-1,Low
+1104,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1105,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+1106,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1107,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1108,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1108,Minimalist,Overall Experience,General Satisfaction,0,Low
+1109,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1110,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+1110,Minimalist,Skin Compatibility & Fragrance,Eye Stinging,-1,High
+1111,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+1112,Minimalist,Texture & Finish,White Cast Issue,-1,High
+1113,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1113,Minimalist,Texture & Finish,Sticky Residue,-1,Low
+1114,Minimalist,Overall Experience,General Satisfaction,1,Low
+1115,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+1116,Minimalist,Skin Compatibility & Fragrance,Eye Stinging,-1,High
+1116,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+1117,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1118,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1118,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1119,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+1120,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+1121,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,-1,High
+1121,Minimalist,Texture & Finish,Sticky Residue,-1,High
+1122,Minimalist,Skin Compatibility & Fragrance,Eye Stinging,-1,High
+1123,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1124,Minimalist,Skin Compatibility & Fragrance,Eye Stinging,-1,Low
+1125,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1126,Minimalist,Skin Compatibility & Fragrance,Pleasant Or No Fragrance,1,Low
+1126,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+1127,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1128,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+1128,Minimalist,Skin Compatibility & Fragrance,Eye Stinging,-1,High
+1129,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+1129,Minimalist,Texture & Finish,Dewy Finish,1,Low
+1130,Minimalist,Sun Protection & Value,Good Value Price,1,Low
+1130,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1131,Minimalist,Skin Compatibility & Fragrance,Skin Irritation Burning,-1,High
+1131,Minimalist,Texture & Finish,Quick Absorption,-1,High
+1132,Minimalist,Texture & Finish,White Cast Issue,-1,High
+1132,Minimalist,Texture & Finish,Greasy Oily Feel,-1,High
+1133,Minimalist,Sun Protection & Value,Small Quantity For Price,-1,Low
+1134,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+1134,Minimalist,Texture & Finish,White Cast Issue,-1,Low
+1135,Minimalist,Texture & Finish,No White Cast,1,Low
+1135,Minimalist,Skin Compatibility & Fragrance,Causes Breakouts,1,Low
+1135,Minimalist,Texture & Finish,Greasy Oily Feel,-1,Low
+1136,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+1137,Minimalist,Skin Compatibility & Fragrance,Allergic Reaction,-1,High
+1138,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+1139,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
+1140,Minimalist,Texture & Finish,Pilling Under Makeup,-1,Low
